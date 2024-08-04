@@ -8,6 +8,5 @@ a = [];
 //   console.log(a);
 // }
 
-// first commit
 // second commit
 // third commit
