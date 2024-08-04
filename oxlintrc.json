@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "foo": "readonly"
+  },
+  "settings": {},
+  "rules": {
+    "no-console": "error",
+    "no-unused-labels": "error"
+  }
+}

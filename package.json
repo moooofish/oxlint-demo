@@ -1,0 +1,15 @@
+{
+  "name": "oxlint-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "oxlint": "oxlint -c oxlintrc.json index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.3.0",
+    "oxlint": "^0.3.5"
+  }
+}
