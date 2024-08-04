@@ -57,3 +57,5 @@ const student = {
 };
 
 console.log(student);
+
+const yu = 989;
